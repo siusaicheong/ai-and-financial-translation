@@ -14,7 +14,7 @@ This talk will offer insights into how financial translators can capitalize on s
 
 financial translation, translation technology, artificial intelligence, deep learning, specialized translation
 
-# Citation
+## Citation
 
 Please cite as
 ``` bibtex
